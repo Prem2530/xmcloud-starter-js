@@ -7,6 +7,7 @@ import { Form } from '@sitecore-content-sdk/nextjs';
 import * as TitleAndText from 'src/components/title-and-text/TitleAndText';
 import * as Title from 'src/components/title/Title';
 import * as StructuredData from 'src/components/structured-data/StructuredData';
+import * as SitecoreClientTest from 'src/components/sitecore-client-test/SitecoreClientTest';
 import * as RowSplitter from 'src/components/row-splitter/RowSplitter';
 import * as RichText from 'src/components/rich-text/RichText';
 import * as Promo from 'src/components/promo/Promo';
@@ -14,6 +15,8 @@ import * as PartialDesignDynamicPlaceholder from 'src/components/partial-design-
 import * as PageContent from 'src/components/page-content/PageContent';
 import * as Navigation from 'src/components/navigation/Navigation';
 import * as LinkList from 'src/components/link-list/LinkList';
+import * as LayoutDataTest from 'src/components/layout-data-test/LayoutDataTest';
+import * as LayoutContextData from 'src/components/layout-data-test/LayoutContextData';
 import * as Image from 'src/components/image/Image';
 import * as ContentBlock from 'src/components/content-block/ContentBlock';
 import * as Container from 'src/components/container/Container';
@@ -26,6 +29,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['TitleAndText', { ...TitleAndText }],
   ['Title', { ...Title }],
   ['StructuredData', { ...StructuredData }],
+  ['SitecoreClientTest', { ...SitecoreClientTest }],
   ['RowSplitter', { ...RowSplitter }],
   ['RichText', { ...RichText }],
   ['Promo', { ...Promo }],
@@ -33,6 +37,8 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['PageContent', { ...PageContent }],
   ['Navigation', { ...Navigation, componentType: 'client' }],
   ['LinkList', { ...LinkList }],
+  ['LayoutDataTest', { ...LayoutDataTest }],
+  ['LayoutContextData', { ...LayoutContextData, componentType: 'client' }],
   ['Image', { ...Image }],
   ['ContentBlock', { ...ContentBlock, componentType: 'client' }],
   ['Container', { ...Container }],

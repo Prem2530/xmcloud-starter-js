@@ -36,9 +36,15 @@ SharedFields:
 - ID: "89cecf4f-e545-44f2-813d-272c08661d14"
   Hint: Description
   Value: Site to test the FE local setup using foundation template
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: "<image mediaid='deb8fde4-ce40-4e08-9d36-6f6ea6063001' />"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "05444e6d-2600-4e9d-8697-97b6f78ea984"
+  Value: "7cdaf81a-1f2b-4983-a3b8-6be2601e2d7a"
 - ID: "e2bf3c8d-a12e-45f4-98d6-a37f13bcf375"
   Hint: SiteTemplate
   Value: "{5AAE1EEA-EA24-40BF-96F1-1F43DA82C77B}"
@@ -63,11 +69,11 @@ Languages:
         sitecore\prem_kumar1@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a50f965a-bf1c-47ae-8178-8871f703ebe8"
+      Value: "03889eec-7bb9-4c9c-acea-560142ae2644"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Anonymous
+        sitecore\prem_kumar1@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260627T162431Z
+      Value: 20260717T160112Z

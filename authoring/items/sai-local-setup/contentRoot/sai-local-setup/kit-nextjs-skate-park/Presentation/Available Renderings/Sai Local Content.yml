@@ -6,10 +6,13 @@ Path: "/sitecore/content/sai-local-setup/kit-nextjs-skate-park/Presentation/Avai
 SharedFields:
 - ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
   Hint: Renderings
-  Value: "{C54E3270-5576-4534-AE64-5E4795FF709C}"
+  Value: |
+    {C54E3270-5576-4534-AE64-5E4795FF709C}
+    {4F2549F7-2FC8-4427-ABA8-97260E183E27}
+    {FD686F97-6E26-4F23-99F3-1F97C06A24EF}
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f6ae8149-090e-49fd-a72f-3f11e4d8eb6a"
+  Value: "57f92878-d941-4b71-9af5-9a174bd603d2"
 Languages:
 - Language: en
   Versions:
@@ -28,11 +31,11 @@ Languages:
         sitecore\prem_kumar1@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cf8e9ca1-94b7-4b89-88aa-f4f6455d6fb7"
+      Value: "6adb626d-6e0a-4aca-9c00-2f6762c759fb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\prem_kumar1@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260702T072328Z
+      Value: 20260708T161129Z

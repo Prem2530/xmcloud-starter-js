@@ -1,0 +1,68 @@
+﻿---
+ID: "67210a8c-217f-4845-9954-d046f258894d"
+Parent: "301681c5-ec8f-407b-9c97-df8e4a93abe8"
+Template: "000073f1-7207-4548-8ab5-073c8fe5d9ba"
+Path: "/sitecore/content/sai-local-setup/kit-nextjs-skate-park/Home/Contact Us"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9AE406AF-AEB4-4E50-9FF9-B7416E31C963}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c993efb-1929-441a-bbf1-d11fb546ce27"
+      Hint: Title
+      Value: Contact Us
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260719T070950Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Contact Us
+    - ID: "5171b3f8-d10f-417e-b334-67a0aa8a87f2"
+      Hint: Content
+      Value: Welcome to Skate Park Contact Us page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "017eda56-7b91-4dae-92e5-70f9abd82e7b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260719T131347Z
+- Language: "ta-IN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c993efb-1929-441a-bbf1-d11fb546ce27"
+      Hint: Title
+      Value: தொடர்பு கொள்க 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260719T115226Z
+    - ID: "5171b3f8-d10f-417e-b334-67a0aa8a87f2"
+      Hint: Content
+      Value: <p>Hello</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d247a717-a421-4599-ae29-fb39e6850a0d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260719T131649Z

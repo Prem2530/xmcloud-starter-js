@@ -42,7 +42,7 @@ SharedFields:
   Value: "{A0EFAEE7-18CB-4FDE-BC9D-AF0B5FC265A4}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "652fe50d-717b-4493-b51f-a13b8cad9f2c"
+  Value: "23174230-e651-4466-8fd0-aca453ab59e0"
 - ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
   Hint: MediaLibrary
   Value: "{24A2C9F4-BC29-4546-971E-1706095C097B}"
@@ -67,11 +67,11 @@ Languages:
         sitecore\prem_kumar1@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fe915ddc-72f5-413e-8ba7-9e00156797ac"
+      Value: "9c8f8740-b683-421f-8f81-33edb54e3374"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\prem_kumar1@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260627T162829Z
+      Value: 20260703T122553Z

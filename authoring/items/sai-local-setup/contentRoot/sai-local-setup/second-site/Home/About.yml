@@ -1,0 +1,71 @@
+﻿---
+ID: "3097178e-e0da-4a45-99e3-6538203fc06a"
+Parent: "632d616d-461c-4ab2-bec3-3f105806a5ff"
+Template: "000073f1-7207-4548-8ab5-073c8fe5d9ba"
+Path: "/sitecore/content/sai-local-setup/second-site/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B2685630-FD77-471C-94EB-051CC4432F5A}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "11a30741-c248-4b53-b046-297c3113a168"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{62D1733A-79BB-41B3-951D-05B9C1645289}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b1F832A13-DCAF-4477-A048-6955FF6E2235%7d%7c%7bB04A49B9-1804-4483-A81C-263643A3A272%7d%7c%7bAE681F1A-1246-4447-B910-8DC85D6743FA%7d%7c%7b0165147F-1BBC-4098-82D1-0636D1DE5AED%7d%7c%7bF591FA11-7FE3-4593-8A94-B383D624E65D%7d%7c%7b3E8F3FBE-453D-49F1-BDD4-47FECD849825%7d%7c%7b21366E56-C69B-47E8-84DF-0586EC27BC65%7d%7c%7bC8628857-AC61-4C37-B2FD-B87E520FD706%7d%7c%7b69433F22-AEBE-4D41-9AC8-31AC655E9731%7d%7c%7bAEC308C6-8886-4B5F-A104-99AEEBB9DB8C%7d%7c%7b1B9DBDAD-550D-4138-B105-CD0789A940CF%7d%7c%7b31860F45-A3C5-4AD6-92C3-19FE8F7DC3D4%7d%7c%7b6D6A5BFD-CB0C-4116-9392-78D5D85A88A4%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{AC0C430A-3581-414F-A90E-154D1903AE65}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7bE392AE6C-F87A-4058-91B1-5746226206C4%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c993efb-1929-441a-bbf1-d11fb546ce27"
+      Hint: Title
+      Value: About
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260717T155911Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af78cd52-ab70-403a-8b18-60c8cf6c235b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260717T155925Z

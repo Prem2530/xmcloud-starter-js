@@ -102,6 +102,48 @@ Languages:
       Value: 20260627T162430Z
   - Version: 2
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{77D159EC-4842-4086-8917-62436991844B}"
+              s:par="Styles=%7B5A70A531-FDB1-43F4-B61B-5FBEE4D8AD33%7D&amp;FieldNames=%7B155E2EED-E624-41B1-A5A2-D280EFB6B1D3%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B3DC91543-36F8-452A-BACD-F98B0C21BCF9%7D%7C%7B6F83979B-4C3F-4EEC-8C64-F8DA29D83961%7D%7C%7B959FDFBB-4691-4A17-816F-7A5330B8216A%7D%7C%7B271DE3B1-089F-4977-95EC-B5E51446FC01%7D%7C%7B1B189E02-FFC9-4ADC-84E5-D2AB5F6EC0FB%7D%7C%7B175CB6DA-CF89-4D56-888C-EB79F514D12F%7D%7C%7B94BCE55D-68FC-4020-A364-176EF1AAAFFB%7D%7C%7BF4BC7C4C-175F-4EA4-A6D9-EFCD92507276%7D%7C%7B7DF615F7-0A53-42E1-A164-2B36D6126314%7D%7C%7B1FEC5EDD-5489-43F1-8C19-A092206E130D%7D%7C%7BB706790E-8CB2-4A93-B341-6E7171734B61%7D" />
+            <r
+              uid="{65DE12B0-36DA-415B-858A-70144AB84D60}"
+              s:par="DynamicPlaceholderId=2&amp;FieldNames=%7B30D4618A-3731-4E34-9476-9CDE294CC6EB%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D" />
+            <r
+              uid="{56607A46-ECAB-43EA-AC6A-487FE0FA9251}"
+              s:par="Styles=%7BE95DD1B1-4F6B-4BFF-B66B-147D1ECE0FD7%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{FEFE883D-E9F1-432F-8CC1-18A9C1C81F49}"
+              p:after="r[@uid='{56607A46-ECAB-43EA-AC6A-487FE0FA9251}']"
+              s:id="{4F2549F7-2FC8-4427-ABA8-97260E183E27}"
+              s:par="CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{2747BB35-6877-468A-9FB7-53D803777F54}"
+              p:after="r[@uid='{FEFE883D-E9F1-432F-8CC1-18A9C1C81F49}']"
+              s:id="{FD686F97-6E26-4F23-99F3-1F97C06A24EF}"
+              s:par="CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{F15303CE-C8FE-4CBB-9099-98DC08602C73}"
+              s:par="Styles=%7B425C4656-17EE-492A-8C1E-C8903BC56FDC%7D&amp;FieldNames=%7B155E2EED-E624-41B1-A5A2-D280EFB6B1D3%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B959FDFBB-4691-4A17-816F-7A5330B8216A%7D%7C%7B271DE3B1-089F-4977-95EC-B5E51446FC01%7D%7C%7B1B189E02-FFC9-4ADC-84E5-D2AB5F6EC0FB%7D" />
+            <r
+              uid="{0DA7B4D6-BDA5-4362-A881-F553D98F0100}"
+              s:par="Styles=%7BC5E04D82-0A34-41D0-90AC-CE21104FB215%7D&amp;FieldNames=%7B92976553-F751-4A5A-86C2-2ED75684034B%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D%7C%7B41E4B2ED-E813-46F9-8455-C26C88E78D47%7D%7C%7B1D84575C-B71C-40B2-BE7E-65503BCD666E%7D" />
+            <r
+              uid="{26D23760-F01E-4FA8-8146-C3243D750D2E}"
+              s:par="Styles=%7BC5E04D82-0A34-41D0-90AC-CE21104FB215%7D&amp;FieldNames=%7B92976553-F751-4A5A-86C2-2ED75684034B%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D%7C%7B41E4B2ED-E813-46F9-8455-C26C88E78D47%7D%7C%7B1D84575C-B71C-40B2-BE7E-65503BCD666E%7D" />
+          </d>
+        </r>
     - ID: "0c993efb-1929-441a-bbf1-d11fb546ce27"
       Hint: Title
       Value: Home
@@ -111,6 +153,9 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Home
+    - ID: "5171b3f8-d10f-417e-b334-67a0aa8a87f2"
+      Hint: Content
+      Value: "<p>This content has been updated through the XM Cloud GraphQL API!</p><p>Here's some additional content that explains the benefits of cloud-based content management.</p>"
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -121,7 +166,7 @@ Languages:
         sitecore\prem_kumar1@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "47b03f47-7f6a-4244-a7b5-91763763b4bd"
+      Value: "a685cbc7-f265-45e8-bfc5-99457386361b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -131,4 +176,29 @@ Languages:
       Value: 20260630T052051Z
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260702T061453Z
+      Value: 20260719T071353Z
+- Language: "ta-IN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260706T124325Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1eb62fb7-fdbe-4728-93d8-7548abb0ffe4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\prem_kumar1@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260706T124325Z
